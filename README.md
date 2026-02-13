@@ -1,13 +1,16 @@
 <picture>
    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viktoriiatseg/viktoriiatseg/blob/main/IMG_2122.png"  width="260" align="right" hspace="20">
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/viktoriiatseg/viktoriiatseg/blob/main/IMG_2118.png"  width="260" align="right" hspace="20">
-   <img alt="There are two types pf people in this world. Those who can extrapolate from incomplete data" src="https://github.com/viktoriiatseg/viktoriiatseg/blob/main/IMG_2122.png"  width="260" align="right" hspace="20">
+   <img alt="There are two types of people in this world. Those who can extrapolate from incomplete data" src="https://github.com/viktoriiatseg/viktoriiatseg/blob/main/IMG_2122.png"  width="260" align="right" hspace="20">
   </picture>
 
 
- 👋 Привет! 
+<h3>👋 Привет!</h3>
 
-Меня зовут **Вика**, я начинающий **Дата аналитик** 
+<br>
+<br>
+
+  Меня зовут **Вика**, я начинающий **Дата аналитик** 
 
 - 📊 Провожу анализ данных и визуализирую результаты в **Python и DataLens**
 - 🔍 Выполняю **EDA, расчёт метрик, когортный анализ и A/B-тестирование**
@@ -19,12 +22,12 @@
 
 
 <br clear="left"/> 
-<br>
-<br>
 
---- 
 
-## 🛠 Мой стек
+<br clear="right"/>
+
+---
+<h3>🛠 Мой стек</h3>
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -39,7 +42,7 @@
 
 ---
 
-## 📂 Проекты
+ 📂 **Проекты**
 
 | Название | Описание | Ссылка |
 |----------|----------|--------|
