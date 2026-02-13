@@ -1,16 +1,26 @@
-## Hi there 👋
+<table border="0" style="border: none;">
+  <tr style="border: none;">
+    <td width="50%" style="border: none;">
+      
+### Заголовок текста
+Здесь находится ваш текст. Можно писать **жирным**, *курсивом*, 
+использовать списки:
 
-<!--
-**viktoriiatseg/viktoriiatseg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Первый пункт
+- Второй пункт
+- Третий пункт
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://thefinchandpea.com/wp-content/uploads/2013/05/extrapolate.jpg">
+       <source media="(prefers-color-scheme: light)" srcset="https://dataedo-website.s3.amazonaws.com/cartoon/null_product.png?1664927074">
+       <img alt="There are two types pf people in this world. Those who can extrapolate from incomplete data" src="https://thefinchandpea.com/wp-content/uploads/2013/05/extrapolate.jpg">
+      </picture>  
+
+
+    </td>
+  </tr>
+</table>
