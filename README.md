@@ -1,5 +1,5 @@
 <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viktoriiatseg/viktoriiatseg/blob/main/IMG_2122.png"  width="300" align="right" hspace="20">
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/viktoriiatseg/viktoriiatseg/blob/main/IMG_2122.png"  width="280" align="right" hspace="20">
    <source media="(prefers-color-scheme: light)" srcset="https://github.com/viktoriiatseg/viktoriiatseg/blob/main/IMG_2118.png"  width="260" align="right" hspace="20">
    <img alt="There are two types of people in this world. Those who can extrapolate from incomplete data" src="https://github.com/viktoriiatseg/viktoriiatseg/blob/main/IMG_2122.png"  width="260" align="right" hspace="20">
   </picture>
