@@ -16,7 +16,13 @@
 - 🚀 Ищу стажировку или позицию **Junior Data / BI / Product Analyst**
 
 
----
+
+
+<br clear="left"/> 
+<br>
+<br>
+
+--- 
 
 ## 🛠 Мой стек
 
