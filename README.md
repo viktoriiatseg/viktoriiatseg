@@ -50,7 +50,7 @@
 |----------|----------|--------|
 | **Продуктовая аналитика e-com стартапа** | EDA анализ, выбор, расчет и визуализация основных метрик, когортный анализ, выбор приоритетной гипотезы для теста по ICE, выводы и рекомендации | [GitHub](https://github.com/viktoriiatseg/project_product_analysis) |
 | **Аналитика результатов эксперимента с механикой оплаты на образовательном сайте** |EDA, выбор и расчет метрик, A/B тест, выводы и визуализация резултатов, SQL запросы на вывод метрик, написание функций Python для расчета и визуализации метрик | [GitHub](https://github.com/viktoriiatseg/AB_metrics_SQL) |
-| **DataLens дашборд "Удовлетворенности пользователей"** | Разработка BI-дашборда в DataLens: сбор требований, проектирование структуры и визуализация метрик удовлетворённости клиентов | [Смотреть](https://github.com/viktoriiatseg/data_lens_customer_satisfaction) |
+| **DataLens дашборд "Удовлетворенности пользователей"** | Разработка BI-дашборда в DataLens: сбор требований, проектирование структуры и визуализация метрик удовлетворённости клиентов | [DataLens](https://github.com/viktoriiatseg/data_lens_customer_satisfaction) |
 | **Investing Parsing & Calculation** | Парсинг данных с investing.com и автоматизация расчёта финансовых показателей с помощью Python | [GitHub](https://github.com/viktoriiatseg/investing_parsing_calculation) |
 
 ---
