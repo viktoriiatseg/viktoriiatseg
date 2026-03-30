@@ -52,7 +52,7 @@
 | **Аналитика результатов эксперимента с механикой оплаты на образовательном сайте** |EDA, выбор и расчет метрик, A/B тест, выводы и визуализация резултатов, SQL запросы на вывод метрик, написание функций Python для расчета и визуализации метрик | [GitHub](https://github.com/viktoriiatseg/AB_metrics_SQL) |
 | **DataLens дашборд "Удовлетворенности пользователей"** | Разработка BI-дашборда в DataLens: сбор требований, проектирование структуры и визуализация метрик удовлетворённости клиентов | [DataLens](https://github.com/viktoriiatseg/data_lens_customer_satisfaction) |
 | **Investing Parsing & Calculation** | Парсинг данных с investing.com и автоматизация расчёта финансовых показателей с помощью Python | [GitHub](https://github.com/viktoriiatseg/investing_parsing_calculation) |
-| **Data_cleansing_and_analysis** | Очистка и анализ тестовых данных по изменениям доли владения компаний | [DataLens]([https://github.com/viktoriiatseg/data_lens_customer_satisfaction) |
+| **Data cleansing and analysis** | Очистка и анализ тестовых данных по изменениям доли владения компаний | [GitHub](https://github.com/viktoriiatseg/Data_cleansing_and_analysis) |
 
 ---
 
